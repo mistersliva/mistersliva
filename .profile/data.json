@@ -1,0 +1,321 @@
+{
+ "key": "e4b7fcfa",
+ "stars": 2,
+ "contributions": 95,
+ "repos": 19,
+ "followers": 0,
+ "languages": [
+  [
+   "C++",
+   95304773
+  ],
+  [
+   "C",
+   21920031
+  ],
+  [
+   "Rust",
+   652343
+  ],
+  [
+   "C#",
+   448908
+  ],
+  [
+   "Perl",
+   413042
+  ],
+  [
+   "Python",
+   374254
+  ],
+  [
+   "CSS",
+   183465
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Source-SDK-2013-sFusionUI",
+   "url": "https://github.com/mistersliva/Source-SDK-2013-sFusionUI",
+   "text": "Openmod ported to singleplayer sdk. added more html dialogs, to fully recreate PanoramaUI. (also Lua integration)",
+   "fork": true,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Source-SDK-2013-sFusionUI",
+   "url": "https://github.com/mistersliva/Source-SDK-2013-sFusionUI",
+   "text": "Openmod ported to singleplayer sdk. added more html dialogs, to fully recreate PanoramaUI. (also Lua integration)",
+   "fork": true,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "SourceEngineClean",
+   "url": "https://github.com/mistersliva/SourceEngineClean",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "MijnMagister",
+   "url": "https://github.com/mistersliva/MijnMagister",
+   "text": "Custom Magister client that gives more possibilities for customization. (Vibecoded)",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "mistersliva",
+   "url": "https://github.com/mistersliva/mistersliva",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MonoDownloader",
+   "url": "https://github.com/mistersliva/MonoDownloader",
+   "text": "MonoDownloader — to download songs",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "HLSR-CommunityEdition",
+   "url": "https://github.com/mistersliva/HLSR-CommunityEdition",
+   "text": "Frontend improvements of HLSR Launcher",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "openHLSR",
+   "url": "https://github.com/mistersliva/openHLSR",
+   "text": "Updated HLSR with opened source code",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MiMUI",
+   "url": "https://github.com/mistersliva/MiMUI",
+   "text": "An immediate-mode GUI library for Rust: markup-like syntax, CSS-style styling, declarative animation and PNG/SVG images, on wgpu.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "animation",
+    "gui",
+    "immediate-mode",
+    "rust",
+    "ui-toolkit",
+    "wgpu"
+   ]
+  },
+  {
+   "name": "source-physics",
+   "url": "https://github.com/mistersliva/source-physics",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Rich Text Format",
+   "topics": []
+  },
+  {
+   "name": "PhotonEngineWeb",
+   "url": "https://github.com/mistersliva/PhotonEngineWeb",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "PhotonEngine",
+   "url": "https://github.com/mistersliva/PhotonEngine",
+   "text": "Rust Vulkan-based lightweight game 3d engine",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SourceSpeedrunMod",
+   "url": "https://github.com/mistersliva/SourceSpeedrunMod",
+   "text": "SpeedrunMod for source-based mods. Based on Obsoletium",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "aetherra1n",
+   "url": "https://github.com/mistersliva/aetherra1n",
+   "text": "Hello bypass script for A13 tethered downgrade (vibecoded)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "nfsmw-hl-2005",
+   "url": "https://github.com/mistersliva/nfsmw-hl-2005",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "67",
+   "url": "https://github.com/mistersliva/67",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FreshUI",
+   "url": "https://github.com/mistersliva/FreshUI",
+   "text": "FreshUI is vibecoded ui for Source SDK 2013. it supports xml/css files.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "HL-F-Site",
+   "url": "https://github.com/mistersliva/HL-F-Site",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "SLVspeed",
+   "url": "https://github.com/mistersliva/SLVspeed",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "themenew",
+   "url": "https://github.com/mistersliva/themenew",
+   "text": "dfdsfdsfds",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}

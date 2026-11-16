@@ -1,5 +1,5 @@
 {
- "key": "dbc6414f",
+ "key": "2759dc21",
  "stars": 3,
  "contributions": 110,
  "repos": 20,
@@ -132,6 +132,24 @@
   "longest": 4
  },
  "pins": [
+  {
+   "name": "SourceSpeedrunMod",
+   "url": "https://github.com/mistersliva/SourceSpeedrunMod",
+   "text": "SpeedrunMod for source-based mods. Based on Obsoletium",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "schoolboy-runaway-hl1-movement",
+   "url": "https://github.com/mistersliva/schoolboy-runaway-hl1-movement",
+   "text": "Half-Life 1 / Source movement mod for SchoolBoy Runaway (BepInEx): bhop, air strafing, noclip, speedometer, speedrun timer",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
   {
    "name": "Source-SDK-2013-sFusionUI",
    "url": "https://github.com/mistersliva/Source-SDK-2013-sFusionUI",

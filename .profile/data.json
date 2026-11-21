@@ -1,8 +1,8 @@
 {
- "key": "aff0c100",
+ "key": "3e5eae01",
  "stars": 3,
- "contributions": 119,
- "repos": 22,
+ "contributions": 122,
+ "repos": 23,
  "followers": 0,
  "languages": [
   [
@@ -141,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 4
  },
  "pins": [
@@ -177,6 +177,33 @@
    "fork": true,
    "stars": 2,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "MijnMagister",
+   "url": "https://github.com/mistersliva/MijnMagister",
+   "text": "Custom Magister client that gives more possibilities for customization. (Vibecoded)",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "SourceEngineClean",
+   "url": "https://github.com/mistersliva/SourceEngineClean",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "HLSR-CE",
+   "url": "https://github.com/mistersliva/HLSR-CE",
+   "text": "Лаунчер спидран-сборок Half-Life для Windows и Linux",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   }
  ],
@@ -215,6 +242,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "mrsliva-s-home",
+   "url": "https://github.com/mistersliva/mrsliva-s-home",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
    "topics": []
   },
   {

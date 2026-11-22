@@ -1,8 +1,8 @@
 {
- "key": "c6637dc2",
+ "key": "26d97ffd",
  "stars": 3,
- "contributions": 122,
- "repos": 23,
+ "contributions": 125,
+ "repos": 24,
  "followers": 0,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "C#",
-   942691
+   1088032
   ],
   [
    "Perl",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 3,
     "day": 22,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 4
  },
  "pins": [
@@ -218,6 +218,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "GrooveReborn",
+   "url": "https://github.com/mistersliva/GrooveReborn",
+   "text": "Groove Music style player for Windows 10/11 and Android, no Store or account needed",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
    "topics": []
   },
   {

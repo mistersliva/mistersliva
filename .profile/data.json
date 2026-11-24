@@ -1,5 +1,5 @@
 {
- "key": "aede4fbe",
+ "key": "16283162",
  "stars": 3,
  "contributions": 125,
  "repos": 24,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 0,
   "longest": 4
  },
  "pins": [

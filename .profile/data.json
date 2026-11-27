@@ -1,5 +1,5 @@
 {
- "key": "276af304",
+ "key": "4f317366",
  "stars": 3,
  "contributions": 126,
  "repos": 24,
@@ -133,14 +133,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [
